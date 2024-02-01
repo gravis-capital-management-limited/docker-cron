@@ -1,3 +1,2 @@
-* * * * * cd https://fund-data-qlvv9.ondigitalocean.app/ && php artisan schedule:run >> /dev/null 2>&1
-
+* * * * * curl https://fund-data-qlvv9.ondigitalocean.app/xml
 # An empty line is required at the end of this file for a valid cron file.
